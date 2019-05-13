@@ -51,7 +51,7 @@
 	url = https://github.com/tu-darmstadt-ros-pkg/hector_gazebo.git
 [submodule "3rdParty/hector/hector_localization"]
         path = 3rdParty/hector/hector_localization
-	url = https://github.com/tu-darmstadt-ros-pkg/hector_localization.git
+	url = https://github.com/cart0909/hector_localization.git
 [submodule "3rdParty/hector/hector_models"]
         path = 3rdParty/hector/hector_models
 	url = https://github.com/cart0909/hector_models.git
