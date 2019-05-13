@@ -1,0 +1,40 @@
+[submodule "voxblox"]
+	url = https://github.com/cart0909/voxblox.git
+[submodule "my_sim"]
+	url = https://github.com/cart0909/my_sim.git
+[submodule "libcppt"]
+	url = https://github.com/cart0909/libcppt.git
+[submodule "3rdParty/nlopt"]
+	url = https://github.com/ethz-asl/nlopt.git
+[submodule "3rdParty/minkindr_ros"]
+	url = https://github.com/ethz-asl/minkindr_ros.git
+[submodule "3rdParty/minkindr"]
+	url = https://github.com/cart0909/minkindr.git
+[submodule "3rdParty/mav_trajectory_generation"]
+	url = https://github.com/ethz-asl/mav_trajectory_generation.git
+[submodule "3rdParty/mav_comm"]
+	url = https://github.com/ethz-asl/mav_comm.git
+[submodule "3rdParty/image_undistort"]
+	url = https://github.com/cart0909/image_undistort.git
+[submodule "3rdParty/hector/hector_slam"]
+	url = https://github.com/tu-darmstadt-ros-pkg/hector_slam.git
+[submodule "3rdParty/catkin_simple"]
+	url = https://github.com/catkin/catkin_simple.git
+[submodule "3rdParty/ceres_catkin"]
+	url = https://github.com/ethz-asl/ceres_catkin.git
+[submodule "3rdParty/eigen_catkin"]
+	url = https://github.com/ethz-asl/eigen_catkin.git
+[submodule "3rdParty/eigen_checks"]
+	url = https://github.com/ethz-asl/eigen_checks.git
+[submodule "3rdParty/gflags_catkin"]
+	url = https://github.com/ethz-asl/gflags_catkin.git
+[submodule "3rdParty/glog_catkin"]
+	url = https://github.com/ethz-asl/glog_catkin.git
+[submodule "3rdParty/hector/hector_gazebo"]
+	url = https://github.com/tu-darmstadt-ros-pkg/hector_gazebo.git
+[submodule "3rdParty/hector/hector_localization"]
+	url = https://github.com/tu-darmstadt-ros-pkg/hector_localization.git
+[submodule "3rdParty/hector/hector_models"]
+	url = https://github.com/cart0909/hector_models.git
+[submodule "3rdParty/hector/hector_quadrotor"]
+	url = https://github.com/cart0909/hector_quadrotor.git
