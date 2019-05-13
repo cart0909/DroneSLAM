@@ -21,7 +21,7 @@
 	url = https://github.com/ethz-asl/mav_trajectory_generation.git
 [submodule "3rdParty/mav_comm"]
         path = 3rdParty/mav_comm
-	url = https://github.com/ethz-asl/mav_comm.git
+	url = https://github.com/cart0909/mav_comm.git
 [submodule "3rdParty/image_undistort"]
         path = 3rdParty/image_undistort
 	url = https://github.com/cart0909/image_undistort.git
